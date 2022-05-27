@@ -1,0 +1,9 @@
+//salvar como Prog06.java
+
+import javax.swing.*;
+
+class Prog06
+{
+	public static void main (String entrada[])
+	{
+		int n1,

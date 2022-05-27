@@ -1,0 +1,24 @@
+//salvar como MeuPrimeiroProgramaJava.Java
+
+//nome da classe
+class MeuPrimeiroProgramaJava
+{
+	//modulo principal com a entrada pela linha de comando
+	public static void main(String entrada[])
+	{
+		//declaração de variaveis
+		int inteiro = 18;
+		char caracter = 'Masculino';
+		double real = 1.90;
+		Double peso = 60;
+		String frase = "Nome";
+		String Curso = "Analise e desenvolvimento de sistema";
+		boolean VF=true;
+
+		if(VF ==  true)
+		{
+			System.out.println(" Eu sou o " + frase + "Tenho " + inteiro + "anos e tenho " + real + "m de altura, atualmente cursando" + curso + "meu peso é" + peso)
+		}
+			System.exit(0);
+	}
+}
